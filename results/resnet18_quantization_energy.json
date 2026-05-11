@@ -1,0 +1,36 @@
+{
+  "experiment_name": "resnet18_quantization",
+  "timestamp": "2026-02-27T21:14:02.569451",
+  "metrics": {
+    "energy_kwh": 4.643139650171368e-06,
+    "co2_kg": 3.807374513140521e-06,
+    "duration_seconds": 0.0788414478302002,
+    "gpu_energy_kwh": 4.5414863990412817e-07,
+    "cpu_energy_kwh": 4.188991010267239e-06,
+    "avg_gpu_power_w": 20.737,
+    "max_gpu_power_w": 20.737,
+    "avg_gpu_utilization": 0.0,
+    "avg_gpu_memory_used_mb": 3499.00390625,
+    "region": "india",
+    "carbon_intensity": 0.82,
+    "epoch_energies": [],
+    "epoch_co2": [],
+    "epoch_durations": [],
+    "gpu_power_samples": [
+      20.737
+    ],
+    "gpu_utilization_samples": [
+      0
+    ],
+    "gpu_memory_samples": [
+      3499.00390625
+    ]
+  },
+  "regional_emissions": {
+    "india": 3.807374513140521e-06,
+    "us": 1.9501186530719745e-06,
+    "eu": 1.3929418950514103e-06,
+    "china": 2.693020997099393e-06,
+    "global_avg": 2.1822756355805425e-06
+  }
+}

@@ -1,0 +1,3 @@
+Optimized Model,Baseline Model,Optimization,Baseline Acc (%),Optimized Acc (%),Acc Change (%),Baseline CO2 (g),Optimized CO2 (g),CO2 Savings (%)
+ResNet-18-Pruned,ResNet-18,pruned,91.71,91.1,-0.61,19.24,4.7501,75.31
+MobileNetV2-Distilled,MobileNetV2,distilled,88.88,88.83,-0.05,21.4454,43.2041,-101.46

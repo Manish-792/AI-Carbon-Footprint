@@ -1,0 +1,4 @@
+Model,India (g CO2),Us (g CO2),Eu (g CO2),China (g CO2),Global_Avg (g CO2)
+MobileNetV2,21.4454,10.9842,7.8459,15.1687,12.2919
+ResNet-18,19.24,9.8547,7.039,13.6088,11.0278
+SimpleCNN,5.8097,2.9757,2.1255,4.1093,3.33

@@ -1,0 +1,37 @@
+{
+  "num_models": 5,
+  "accuracy": {
+    "mean": 87.77,
+    "std": 4.859666655234697,
+    "min": 78.33,
+    "max": 91.71,
+    "best_model": "ResNet-18"
+  },
+  "co2_emissions": {
+    "total_kg": 0.09444936351790834,
+    "mean_kg": 0.018889872703581667,
+    "min_kg": 0.004750121729697782,
+    "max_kg": 0.04320411422950317,
+    "cleanest_model": "ResNet-18-Pruned"
+  },
+  "energy": {
+    "total_kwh": 0.11518215063159554,
+    "mean_kwh": 0.023036430126319108,
+    "min_kwh": 0.005792831377680222,
+    "max_kwh": 0.05268794418232094
+  },
+  "green_ai_score": {
+    "mean": 8724.271351176181,
+    "max": 19174.4192598902,
+    "best_model": "ResNet-18-Pruned"
+  },
+  "parameters": {
+    "smallest": 620810,
+    "largest": 11173962,
+    "total": 27442098
+  },
+  "pareto_efficient": [
+    "ResNet-18",
+    "ResNet-18-Pruned"
+  ]
+}

@@ -1,0 +1,4 @@
+Model,Architecture,Dataset,Accuracy (%),Parameters (M),Size (MB),Training Time (min),Energy (Wh),CO2 (g),Green AI Score,CEI,Optimization
+MobileNetV2,mobilenetv2,cifar10,88.88,2.24,8.66,29.91,26.1529,21.4454,4144.29,831211.91,none
+ResNet-18,resnet18,cifar10,91.71,11.17,42.66,28.07,23.4635,19.24,4766.37,1018691.95,none
+SimpleCNN,simple_cnn,cifar10,78.28,0.62,2.37,13.03,7.085,5.8097,13471.66,6203741.08,none
