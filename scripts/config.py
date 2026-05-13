@@ -28,7 +28,7 @@ for dir_path in [MODELS_DIR, FIGURES_DIR, TABLES_DIR, DATA_DIR, RESULTS_DIR]:
 CARBON_INTENSITY = {
     "india": 0.82,      # Coal-heavy grid
     "us": 0.42,         # Mixed energy sources
-    "eu": 0.30,         # Cleaner grid (more renewables)
+    "eu": 0.28,         # Cleaner grid (more renewables)
     "china": 0.58,      # Coal-heavy but improving
     "global_avg": 0.47, # Global average
 }
